@@ -12,8 +12,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/mycount" />
+            <option value="$PROJECT_DIR$/mycycle" />
             <option value="$PROJECT_DIR$/mygrid" />
             <option value="$PROJECT_DIR$/mylayout" />
+            <option value="$PROJECT_DIR$/mylifecycle" />
             <option value="$PROJECT_DIR$/myprofile" />
             <option value="$PROJECT_DIR$/mytimer" />
             <option value="$PROJECT_DIR$/myword" />
